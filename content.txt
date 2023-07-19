@@ -2,3 +2,4 @@ yellow
 red
 blue
 green
+white
