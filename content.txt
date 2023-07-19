@@ -2,4 +2,13 @@ yellow
 red
 blue
 green
+<<<<<<< HEAD
 white
+=======
+<<<<<<< Updated upstream
+white
+=======
+white
+red
+>>>>>>> Stashed changes
+>>>>>>> developer
