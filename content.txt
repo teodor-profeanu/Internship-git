@@ -2,4 +2,9 @@ yellow
 red
 blue
 green
+<<<<<<< Updated upstream
 white
+=======
+white
+red
+>>>>>>> Stashed changes
